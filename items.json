@@ -1,0 +1,42 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "R.D. Sharma",
+      "price": 399,
+      "imgName": "A1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "H.C. Verma",
+      "price": 499,
+      "imgName": "A2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "B.S. Grewal",
+      "price": 999,
+      "imgName": "A3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "R.S. aggarwal",
+      "price": 1999,
+      "imgName": "A4.jpg"
+    }
+  ],
+  "gadgets": [
+    {
+      "id": 5,
+      "name": "Calculator",
+      "price": 999,
+      "imgName": "A5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "price": 699,
+      "imgName": "A6.jpeg"
+    }
+  ]
+}
